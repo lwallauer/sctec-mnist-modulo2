@@ -1,0 +1,117 @@
+# ============================================================
+# Classificador Visual MNIST (Mini Projeto Módulo 2)
+# ============================================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Ambientes virtuais ---
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- IDEs / Editores ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# --- Sistema Operacional ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# --- Logs e temporários ---
+*.log
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+.coverage.*
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# --- Artefatos de build / empacotamento ---
+*.manifest
+*.spec
+dist/
+build/
+*.exe
+*.app
+
+# --- Secrets / Credenciais ---
+*.pem
+*.key
+secrets.json
+credentials.json
+kaggle.json
+.env.local
+.env.*.local
+
+# --- Modelos grandes (descomente se NÃO quiser versionar pesos) ---
+# models/*.keras
+# models/*.h5
+# models/*.joblib
+# models/mediapipe/*.task
+
+# --- Dados brutos pesados (MNIST é baixado via OpenML) ---
+# data/raw/
+# *.npz
+
+# Modelos e artefatos treinados
+models/*
+!models/.gitkeep
+
+# Dados baixados ou processados automaticamente
+data/raw/
+data/processed/
