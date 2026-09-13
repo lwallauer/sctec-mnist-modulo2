@@ -109,7 +109,7 @@ kaggle.json
 # *.npz
 
 # Modelos e artefatos treinados
-models/*
+# models/*
 !models/.gitkeep
 
 # Dados baixados ou processados automaticamente
