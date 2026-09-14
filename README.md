@@ -250,9 +250,9 @@ Commits no estilo imperativo e conciso (`implementa X`, `corrige Y`, `documenta 
 | 📓 Notebook do pipeline | [`notebooks/mnist_pipeline.ipynb`](notebooks/mnist_pipeline.ipynb) |
 | 🖥️ Aplicação Desktop | [`app_desktop.py`](app_desktop.py) |
 | 🧩 Pré-processamento compartilhado | [`src/preprocess.py`](src/preprocess.py) |
-| 📁 Repositório GitHub | https://github.com/lwallauer/sctec-mnist-modulo2 |
-| 🎬 Vídeo de apresentação | — |
-| 📂 Pasta completa do projeto | [Google Drive](https://drive.google.com/drive/folders/1PnBbA9M6TKhFfTYybqUJ4MizbM9Ekd_U?usp=sharing) |
+| 📁 Repositório GitHub |[github.com/lwallauer](https://github.com/lwallauer/sctec-mnist-modulo2) |
+| 🎬 Vídeo de apresentação | [Google Drive](https://drive.google.com/file/d/1LH-MAMI75gz1tfLDenBEHwUgs6cv676Q/view?usp=sharing) (Precione CTRL + link para abrir em uma nova aba)|
+| 📂 Pasta completa do projeto | [Google Drive](https://drive.google.com/drive/folders/1F4y3RAwPWd0kohx9QW2vhPoBjxnOc9Wc?usp=sharing) (Precione CTRL + link para abrir em uma nova aba)|
 
 ---
 
